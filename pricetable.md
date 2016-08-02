@@ -8,11 +8,13 @@ Bảng tính chi phí các hạng mục được chia làm 3 phần:
 
 Tương ứng với 3 mục này sẽ có 3 hợp đồng:
 
-- Hợp đồng thiết kế, xây dựng và triển khai trang web
+- Hợp đồng thiết kế, xây dựng và triển khai website
 - Hợp đồng lưu trữ và bảo trì website
 - Hợp đồng online marketing cho website
 
 ## Chi phí thiết kế
+
+
 
 ## Chi phí lưu trữ & bảo trì
 
