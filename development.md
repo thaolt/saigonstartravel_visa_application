@@ -6,30 +6,27 @@ Công ty SaigonStar Travel muốn có một giải pháp cho phép người sử
 
 ### Mục tiêu
 
-- Thiết kế sáng sủa dễ sử dụng.
-- Bảo mật và an toàn dữ liệu cao
+- Khách quan tâm có thể thăm trang web và xem danh sách các loại đơn xin Visa với các mục đích khác nhau như: du lịch, công tác, thăm thân, v.v..
 - Cho phép thanh toán trực tuyến ( đối tượng khách hàng khách Châu Âu đang muốn đến Việt Nam )
 - Có kế hoạch marketing trực tuyến cho website giúp đến gần với đối tượng khách hàng tiềm năng hơn.
 - Tích hợp sẵn 4 ngôn ngữ: Anh, Pháp, Đức, Tây Ban Nha ( cho phép quản trị tự thêm ngôn ngữ )
+- Bảo mật và an toàn dữ liệu cao
+
 
 ### Thiết kế
 
-- Có giao diện đơn giản dễ sử dụng, chú trọng những thông tin cần thiết.
+- Có giao diện được thiết kế sáng sủa đơn giản dễ sử dụng, chú trọng những thông tin cần thiết.
 - Trang web có thiết kế tương thích đa thiết bị -- máy tính và các thiết bị di động (mobile, tablet, PC/Mac)
 
 - Sử dụng những phương pháp thiết kế và công nghệ hiện đại
 
 ## Mô tả chức năng
 
-- Khách quan tâm có thể thăm trang web và xem danh sách các loại đơn xin Visa như sau:
 
- - Du lịch (Tourism)
- - Công tác (Business)
- - Thăm thân (Friend/family visit)
 
+ - 
 - Có sử dụng công cụ theo dõi và báo cáo tình trạng khách viếng thăm website
 
-## Mô tả chi tiết
 
 ### Trang chủ (giới thiệu)
 
