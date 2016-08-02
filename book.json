@@ -1,6 +1,5 @@
 {
     "plugins": [
-        "theme-creative",
-        "autocover"
+        "theme-creative"
     ]
 }
