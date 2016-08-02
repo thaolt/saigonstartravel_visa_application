@@ -18,14 +18,10 @@ Công ty SaigonStar Travel muốn có một giải pháp cho phép người sử
 
 - Có giao diện được thiết kế sáng sủa đơn giản dễ sử dụng, chú trọng những thông tin cần thiết.
 - Trang web có thiết kế tương thích đa thiết bị -- máy tính và các thiết bị di động (mobile, tablet, PC/Mac)
-
 - Sử dụng những phương pháp thiết kế và công nghệ hiện đại
 
 ## Mô tả chức năng
 
-
-
- - 
 - Có sử dụng công cụ theo dõi và báo cáo tình trạng khách viếng thăm website
 
 
