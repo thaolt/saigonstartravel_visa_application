@@ -57,7 +57,7 @@ Trang thông tin sẽ bao gồm:
 - Công tác (Business)
 - Thăm thân (Friend/family visit)
 
-(có thể bổ sung thêm)
+_(có thể bổ sung thêm)_
 
 #### Các phương thức thanh toán (payment methods)
 
