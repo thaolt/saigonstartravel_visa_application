@@ -7,10 +7,11 @@ Công ty SaigonStar Travel muốn có một giải pháp cho phép người sử
 ### Mục tiêu
 
 - Khách quan tâm có thể thăm trang web và xem danh sách các loại đơn xin Visa với các mục đích khác nhau như: du lịch, công tác, thăm thân, v.v..
-- Cho phép thanh toán trực tuyến ( đối tượng khách hàng khách Châu Âu đang muốn đến Việt Nam )
+- Khách hàng có thể gởi đơn yêu cầu xin Visa trực tiếp trên trang web.
+- Cho phép thanh toán trực tuyến ( đối tượng khách hàng khách Châu Âu đang muốn đến Việt Nam ).
 - Có kế hoạch marketing trực tuyến cho website giúp đến gần với đối tượng khách hàng tiềm năng hơn.
-- Tích hợp sẵn 4 ngôn ngữ: Anh, Pháp, Đức, Tây Ban Nha ( cho phép quản trị tự thêm ngôn ngữ )
-- Bảo mật và an toàn dữ liệu cao
+- Tích hợp sẵn 4 ngôn ngữ: Anh, Pháp, Đức, Tây Ban Nha ( cho phép quản trị tự thêm ngôn ngữ ).
+- Trang web phải có bảo mật và độ an toàn dữ liệu cao.
 
 
 ### Thiết kế
