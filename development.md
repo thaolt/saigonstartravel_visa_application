@@ -14,7 +14,6 @@ Công ty SaigonStar Travel muốn có một giải pháp cho phép người sử
 - Trang web phải có bảo mật và độ an toàn dữ liệu cao.
 - Có sử dụng công cụ theo dõi và báo cáo tình trạng khách viếng thăm website
 
-
 ### Thiết kế
 
 - Có giao diện được thiết kế sáng sủa đơn giản dễ sử dụng, chú trọng những thông tin cần thiết.
