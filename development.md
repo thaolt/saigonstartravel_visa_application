@@ -20,7 +20,7 @@ Công ty SaigonStar Travel muốn có một giải pháp cho phép người sử
 - Trang web có thiết kế tương thích đa thiết bị -- máy tính và các thiết bị di động (mobile, tablet, PC/Mac)
 - Sử dụng những phương pháp thiết kế và công nghệ hiện đại
 
-## Mô tả chức năng
+## Mô tả chức năng {#functions}
 
 
 
@@ -88,7 +88,7 @@ Bao gồm 3 bước
 
 #### Chức năng hỗ trợ trực tuyến (live chat)
 
-## Yêu cầu kỹ thuật
+## Yêu cầu kỹ thuật {#technical}
 
 Dưới đây là một số yêu cầu kỹ thuật tổng quan, để biết thêm chi tiết vui lòng tham khảo Bảng kế hoạch triển khai
 
