@@ -12,6 +12,7 @@ Công ty SaigonStar Travel muốn có một giải pháp cho phép người sử
 - Có kế hoạch marketing trực tuyến cho website giúp đến gần với đối tượng khách hàng tiềm năng hơn.
 - Tích hợp sẵn 4 ngôn ngữ: Anh, Pháp, Đức, Tây Ban Nha ( cho phép quản trị tự thêm ngôn ngữ ).
 - Trang web phải có bảo mật và độ an toàn dữ liệu cao.
+- Có sử dụng công cụ theo dõi và báo cáo tình trạng khách viếng thăm website
 
 
 ### Thiết kế
@@ -22,7 +23,6 @@ Công ty SaigonStar Travel muốn có một giải pháp cho phép người sử
 
 ## Mô tả chức năng
 
-- Có sử dụng công cụ theo dõi và báo cáo tình trạng khách viếng thăm website
 
 
 ### Trang chủ (giới thiệu)
