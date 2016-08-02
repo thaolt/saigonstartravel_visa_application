@@ -1,8 +1,5 @@
 {
     "title": "Ứng dụng gởi đơn xin Visa trực tuyến cho SaigonStar Travel",
     "author": "DFM Engineering <contact@dfm-engineering.com>",
-    "language": "vi",
-    "plugins": [
-        "theme-creative"
-    ]
+    "language": "vi"
 }
