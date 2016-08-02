@@ -63,9 +63,9 @@ _Có thể bổ sung thêm_
 
 Bao gồm 3 bước
 
-#### Bước 1:
+#### Bước 1: 
 
-#### Bước 2: Chi tiết ứng viên
+#### Bước 2: Khai báo thông tin chi tiết
 
 - Tên, giới tính
 
