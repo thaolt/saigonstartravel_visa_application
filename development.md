@@ -110,8 +110,8 @@ Dưới đây là một số yêu cầu kỹ thuật tổng quan, để biết t
 
 ### Máy chủ email
 
-- Có máy chủ email riêng cho tên miền riêng
-- Dung lượng lưu trữ mỗi địa chỉ email là 10 GB
-- Số lượng địa chỉ email tối đa là 200 địa chỉ
+- Có máy chủ email riêng cho tên miền riêng.
+- Dung lượng lưu trữ mỗi địa chỉ email là 10 GB.
+- Số lượng địa chỉ email tối đa là 200 địa chỉ.
 
 
