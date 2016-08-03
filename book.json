@@ -1,10 +1,14 @@
 {
-    "plugins": [
-    ],
+    "pluginsConfig": {
+        "theme-default": {
+            "styles": "",
+            "showLevel": true
+        }
+    },
     "author": "DFM Engineering <contact@dfm-engineering.com>",
-    "title": "Ứng dụng gởi đơn xin Visa trực tuyến cho SaigonStar Travel",
-    "language": "vi",
     "structure": {
         "readme": "index.md"
-    }
+    },
+    "title": "Ứng dụng gởi đơn xin Visa trực tuyến cho SaigonStar Travel",
+    "language": "vi"
 }
