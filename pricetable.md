@@ -41,7 +41,7 @@ Các chú thích trong bảng giá
 |--------------------------|-----------|----------:|:--------:|
 | Thiết kế web site        | 10        | 2.200     |![          ](/assets/check-check.png)|
 | Xây dựng tính năng chính | 25 | 5.500 |![](/assets/check-check.png) |
-| **Phần bổ sung (tuỳ chọn)** | | | |
+| **Phần bổ sung (tuỳ chọn)** | 2 |  | |
 | - Chức năng live chat | | |![](/assets/check-blank.png) |
 | - Chức năng trang hỏi đáp | | | ![](/assets/check-blank.png)|
 | - PC sao lưu offline onsite | | |![](/assets/check-blank.png) |
