@@ -12,7 +12,7 @@ Công ty SaigonStar Travel muốn có một giải pháp cho phép người sử
 - Có kế hoạch marketing trực tuyến cho website giúp đến gần với đối tượng khách hàng tiềm năng hơn.
 - Tích hợp sẵn 4 ngôn ngữ: Anh, Pháp, Đức, Tây Ban Nha ( cho phép quản trị tự thêm ngôn ngữ ).
 - Trang web phải có bảo mật và độ an toàn dữ liệu cao.
-- Có sử dụng công cụ theo dõi và báo cáo tình trạng khách viếng thăm website
+- Có sử dụng công cụ theo dõi và báo cáo tình trạng khách viếng thăm website.
 
 ### Thiết kế
 
@@ -24,10 +24,10 @@ Công ty SaigonStar Travel muốn có một giải pháp cho phép người sử
 
 ### Trang chủ (giới thiệu)
 
-- Có chứa một số hình ảnh bắt mắt về Việt Nam và SaigonStar Travel (images slideshow)
+- Có chứa một số hình ảnh bắt mắt về Việt Nam và SaigonStar Travel (images slideshow).
 - Hiển thị một số tin tức mới nhất/nổi bật liên quan đến Việt Nam và thị thực.
 - Hiển thị các banner của các dịch vụ và trang thông tin liên quan. Các banner này có thể thay đổi được bởi quan trị viên.
-- Chú trọng hiển thị liên kết đến trang "gởi đơn xin Visa"
+- Chú trọng hiển thị liên kết đến trang "gởi đơn xin Visa".
 
 ### Trang tin tức (news)
 
