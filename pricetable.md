@@ -31,6 +31,8 @@ Các chú thích trong bản giá
 | **Phần bổ sung (tuỳ chọn)** | | | |
 | - Chức năng live chat | | | |
 | - Chức năng trang hỏi đáp | | | |
+| - PC sao lưu offline onsite | | | |
+
 
 
 ## Chi phí lưu trữ & bảo trì (/năm)
@@ -40,7 +42,7 @@ Các chú thích trong bản giá
 | Dịch vụ | Cấu hình | Giá thành | Lựa chọn |
 |---------|----------|-----------|----------|
 | Lưu trữ/phục vụ web (hosting) | | | |
-| Tên miền .vn | $25 | | |
+| Tên miền | .vn/.com.vn | $25 | |
 | **Phần bổ sung (tuỳ chọn)** | | | |
 | - Chức năng live chat | | | |
 | - Chức năng trang hỏi đáp | | | |
