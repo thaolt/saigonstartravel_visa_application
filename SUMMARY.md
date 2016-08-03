@@ -1,6 +1,6 @@
 # Mục lục
 
-* [Lời nói đầu](introduction.md)
+* [Lời nói đầu](introduction/index.md)
 * [Thiết kế & Xây dựng website](development/index.md)
   * [Yêu cầu tổng quan](development.md#overview)
   * [Mô tả chức năng](development.md#functions)
