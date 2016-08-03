@@ -33,8 +33,6 @@ Các chú thích trong bản giá
 | - Chức năng trang hỏi đáp | | | |
 | - PC sao lưu offline onsite | | | |
 
-
-
 ## Chi phí lưu trữ & bảo trì (/năm)
 
 Đơn vị tính: US$
