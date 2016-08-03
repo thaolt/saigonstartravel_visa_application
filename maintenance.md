@@ -5,7 +5,8 @@
 
 ## Sao lưu dự phòng
 
-Tất cả CSDL website và thông tin khách hàng đăng ký luôn luôn được lưu trữ và đồng bộ.
+* Tất cả CSDL website và thông tin khách hàng đăng ký luôn luôn được lưu trữ và đồng bộ với dịch vụ lưu trữ điện toán đám mây (cloud hosting).
+* Nếu có 
 
 200.000 vnd mỗi tháng cho dịch vụ lưu trữ đám mây (Dung lượng 1.000 GB).
 
