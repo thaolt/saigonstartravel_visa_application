@@ -25,7 +25,7 @@ Các chú thích trong bản giá
 | Hạng mục            | Thời gian | Giá thành | Lựa chọn |
 |---------------------|-----------|-----------|----------|
 | Thiết kế            |           |           |          |
-| Xây dựng tính năng  | 
+| Xây dựng tính năng  | | | |
 | **Phần bổ sung (tuỳ chọn)** | | | |
 
 
