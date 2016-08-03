@@ -12,7 +12,7 @@ Tương ứng với 3 mục này sẽ có 3 hợp đồng:
 * Hợp đồng lưu trữ và bảo trì website
 * Hợp đồng online marketing cho website
 
-Quy tắc tính giá
+**Quy tắc tính giá**
 
 Dựa trên số ngày công
 
@@ -20,6 +20,8 @@ Dựa trên số ngày công
 - Giá ngày công: 1.600.000 VNĐ / ngày
 
 Chi phí tối thiểu cho dự án "Ứng dụng web gởi đơn xin cấp thị thực cho SaigonStar Travel" (bao gồm phí lưu trữ + tên miền năm đầu tiên) ước tính là:
+
+Với thời gian tối thiểu là
 
 Các chú thích trong bản giá
 
