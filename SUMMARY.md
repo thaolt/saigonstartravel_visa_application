@@ -1,6 +1,4 @@
-# Summary
-
-### [Lời nói đầu](README.md)
+# [Lời nói đầu](README.md)
 
 ### [Thiết kế & Xây dựng website](2-development/README.md)
     * [Yêu cầu tổng quan](2-development/README.md#overview)
