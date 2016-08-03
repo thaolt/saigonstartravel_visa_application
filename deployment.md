@@ -14,8 +14,9 @@
 * Nền tảng ứng dụng: HTML5 Web/Apache2+NGINX
 * Cơ sở dữ liệu: MySQL 5.5
 * Ngôn ngữ lập trình: PHP
-* Mô hình: MVC, Ajax
+* Mô hình: MVC
 * Frameworks: Google Material Design, jQuery
+* Công nghệ được áp dụng: Ajax, WebSocket
 
 ## Chuyển giao công nghệ và đào tạo {#tranfer}
 
