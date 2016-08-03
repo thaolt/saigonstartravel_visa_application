@@ -96,6 +96,7 @@ Dưới đây là một số yêu cầu kỹ thuật tổng quan, để biết t
 
 - Mọi kết nối từ người dùng đều sử dụng phương thức kết nối bảo mật HTTPS (HTTP over Secure socket layer)
 - Có kế hoạch sao lưu & phục hồi CSDL khách hàng và website nhanh chóng
+- Co1 ca
 
 ### Thanh toán trực tuyến
 
