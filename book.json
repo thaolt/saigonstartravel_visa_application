@@ -2,7 +2,7 @@
     "pluginsConfig": {
         "theme-default": {
             "styles": {},
-            "showLevel": true
+            "showLevel": false
         }
     },
     "author": "DFM Engineering <contact@dfm-engineering.com>",
