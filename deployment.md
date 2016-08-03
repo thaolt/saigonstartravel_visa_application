@@ -11,7 +11,7 @@
 
 ### Hệ thống phần mềm
 
-* Nền tảng ứng dụng: HTML5 Web/Apache2
+* Nền tảng ứng dụng: HTML5 Web/Apache2+NGINX
 * Cơ sở dữ liệu: MySQL 5.5
 * Ngôn ngữ lập trình: PHP
 * Mô hình: MVC
