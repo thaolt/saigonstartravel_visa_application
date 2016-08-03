@@ -12,6 +12,10 @@ Tương ứng với 3 mục này sẽ có 3 hợp đồng:
 * Hợp đồng lưu trữ và bảo trì website
 * Hợp đồng online marketing cho website
 
+Các chú thích trong bản giá
+
+
+
 ## Chi phí thiết kế & xây dựng 
 
 | Hạng mục            | Thời gian | Giá thành | Lựa chọn |
