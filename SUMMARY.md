@@ -32,8 +32,8 @@
 [Bảng báo giá](6-pricetables/index.md)
 
 * [Chi phí thiết kế, xây dựng & triển khai](6-pricetables/index.md#maintenance)
-* Chi phí lưu trữ & bảo trì
-* Kế hoạch & Ngân sách Online Marketing
+* [Chi phí lưu trữ & bảo trì](6-pricetables/index.md#maintenance)
+* [Kế hoạch & Ngân sách Online Marketing](6-pricetables/index.md#maintenance)
 
 ----
 
