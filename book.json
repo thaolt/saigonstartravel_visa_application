@@ -1,7 +1,7 @@
 {
     "pluginsConfig": {
         "theme-default": {
-            "styles": "",
+            "styles": {},
             "showLevel": true
         }
     },
