@@ -19,7 +19,7 @@ Dựa trên số ngày công
 - Giá giờ công: 200.000 VNĐ / giờ 
 - Giá ngày công: 1.600.000 VNĐ / ngày
 
-Chi phí tối thiểu cho dự án "Ứng dụng web gởi đơn xin cấp thị thực cho SaigonStar Travel" (bao gồm phí lưu trữ + tên miền năm đầu tiên) ước tính là: 
+Chi phí tối thiểu cho dự án "Ứng dụng web gởi đơn xin cấp thị thực cho SaigonStar Travel" (bao gồm phí lưu trữ + tên miền năm đầu tiên) ước tính là: 68.5 triệu đồng ( 12.000.000 + 500.000 + 56.000.000 )
 
 Với thời gian tối thiểu là: 35 ngày làm việc
 
