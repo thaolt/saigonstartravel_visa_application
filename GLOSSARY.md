@@ -1,4 +1,5 @@
-
+## BW
+Bandwith - Băng thông
 
 ## IoT
 Internet of Things
