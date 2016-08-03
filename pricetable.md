@@ -12,6 +12,10 @@ Tương ứng với 3 mục này sẽ có 3 hợp đồng:
 * Hợp đồng lưu trữ và bảo trì website
 * Hợp đồng online marketing cho website
 
+Quy tắc tính giá
+
+
+
 Các chú thích trong bản giá
 
 
