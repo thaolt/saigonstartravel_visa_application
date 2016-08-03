@@ -32,7 +32,7 @@ Các chú thích trong bảng giá
 ![](/assets/check-check.png)
 > Các hạng mục chính cần thiết cho dự án.
 
-## Chi phí thiết kế, xây dựng & triển khai {#maintenance}
+## Chi phí thiết kế, xây dựng & triển khai {#deployfee}
 
 Đơn vị tiền: ngàn VNĐ
 Đơn vị thời gian: ngày làm việc không bao gồm ngày nghỉ và ngày lễ 
