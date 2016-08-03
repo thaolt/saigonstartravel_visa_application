@@ -92,11 +92,15 @@ Cung cấp khả năng
 
 Dưới đây là một số yêu cầu kỹ thuật tổng quan, để biết thêm chi tiết vui lòng tham khảo Bảng kế hoạch triển khai
 
+### Tối ưu hoá
+
+
+
 ### Bảo mật
 
-- Mọi kết nối từ người dùng đều sử dụng phương thức kết nối bảo mật HTTPS (HTTP over Secure socket layer)
-- Có kế hoạch sao lưu & phục hồi CSDL khách hàng và website nhanh chóng
-- Co1 ca
+- Mọi kết nối từ người dùng đều sử dụng phương thức kết nối bảo mật HTTPS (HTTP over Secure socket layer).
+- Có kế hoạch sao lưu & phục hồi CSDL khách hàng và website nhanh chóng.
+- Có các cơ sở bảo mật: Chống DDoS, chống XSS, theo dõi băng thông, ẩn IP server đến người dùng cuối.
 
 ### Thanh toán trực tuyến
 
