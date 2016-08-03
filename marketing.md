@@ -11,5 +11,3 @@
     * google.co.uk
     * google.de
     * google.es
-* T
-
