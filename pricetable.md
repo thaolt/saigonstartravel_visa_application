@@ -1,4 +1,4 @@
-# Bảng tính giá
+# Bảng báo giá
 
 Bảng tính chi phí các hạng mục được chia làm 3 phần:
 
