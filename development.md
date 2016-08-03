@@ -86,7 +86,7 @@ Bao gồm 3 bước
 
 #### Chức năng hỗ trợ trực tuyến (live chat)
 
-Cung cấp khả năng 
+Cung cấp khả năng hỗ trợ trực tuyến tức thì trên website. Ngoài ra quản trị viên còn có thể theo dõi tất cả các khách đang truy cập website tại trang nào và có khả năng chủ động giao tiếp với khách.
 
 ## Yêu cầu kỹ thuật {#technical}
 
