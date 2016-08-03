@@ -34,11 +34,11 @@ Các chú thích trong bản giá
 | Hạng mục                 | Thời gian | Giá thành | Lựa chọn |
 |--------------------------|-----------|-----------|:--------:|
 | Thiết kế web site        |           |           |![          ](/assets/check-check.png)|
-| Xây dựng tính năng chính | | | |
+| Xây dựng tính năng chính | | |![](/assets/check-check.png) |
 | **Phần bổ sung (tuỳ chọn)** | | | |
-| - Chức năng live chat | | | |
-| - Chức năng trang hỏi đáp | | | |
-| - PC sao lưu offline onsite | | | |
+| - Chức năng live chat | | |![](/assets/check-blank.png) |
+| - Chức năng trang hỏi đáp | | | ![](/assets/check-blank.png)|
+| - PC sao lưu offline onsite | | |![](/assets/check-blank.png) |
 
 ## Chi phí lưu trữ & bảo trì (/năm)
 
@@ -46,10 +46,10 @@ Các chú thích trong bản giá
 
 | Dịch vụ | Cấu hình | Giá thành | Lựa chọn |
 |---------|----------|-----------|----------|
-| Lưu trữ/phục vụ web (hosting) | Space:40GB - BW:3.000GB | 12.000 |  |
-| Tên miền | .vn/.com.vn | 500 | |
+| Lưu trữ/phục vụ web (hosting) | Space:40GB - BW:3.000GB | 12.000 |![](/assets/check-check.png)  |
+| Tên miền | .vn/.com.vn | 500 |![](/assets/check-check.png) |
 | **Phần bổ sung (tuỳ chọn)** | | | |
-| Sao lưu-phục hồi trên điện toán đám mây | 1.000 GB | 3960 | |
+| Sao lưu-phục hồi trên điện toán đám mây | 1.000 GB | 3.960 | ![](/assets/check-blank.png)|
 
 
 ## Ngân sách Online Marketing
