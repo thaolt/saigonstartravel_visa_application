@@ -1,24 +1,24 @@
 # Mục lục
 
-* [Lời nói đầu](introduction/index.md)
+* [Lời nói đầu](1-introduction/index.md)
 
-* [Thiết kế & Xây dựng website](development/index.md)
-  * [Yêu cầu tổng quan](development.md#overview)
-  * [Mô tả chức năng](development.md#functions)
-  * [Yêu cầu kỹ thuật](development.md#technical)
+* [Thiết kế & Xây dựng website](2-development/index.md)
+  * [Yêu cầu tổng quan](2-development/index.md#overview)
+  * [Mô tả chức năng](2-development/index.md#functions)
+  * [Yêu cầu kỹ thuật](2-development/index.md#technical)
 
-* [Kế hoạch triển khai](deployment.md)
-  * [Triển khai hạ tầng kỹ thuật](deployment.md#sysspecs)
-  * [Chuyển giao công nghệ và đào tạo](deployment.md#transfer)
+* [Kế hoạch triển khai](3-deployment/index.md)
+  * [Triển khai hạ tầng kỹ thuật](2-development/index.md#sysspecs)
+  * [Chuyển giao công nghệ và đào tạo](2-development/index.md#transfer)
 
-* [Kế hoạch Sao lưu-phục hồi & Bảo trì](maintenance.md)
+* [Kế hoạch Sao lưu-phục hồi & Bảo trì](4-maintenance/index.md)
 
-* [Chiến lược & Ngân sách đề nghị cho Online Marketing](marketing.md)
+* [Chiến lược & Ngân sách đề nghị cho Online Marketing](5-marketing/index.md)
 
-* [Bảng báo giá](pricetable.md)
-    * [Chi phí thiết kế, xây dựng & triển khai](pricetable.md#maintenance)
+* [Bảng báo giá](6-pricetables/index.md)
+    * [Chi phí thiết kế, xây dựng & triển khai](6-pricetables/index.md#maintenance)
     * Chi phí lưu trữ & bảo trì
     * Kế hoạch & Ngân sách Online Marketing
 
-* [Lời kết](conclusion.md)
+* [Lời kết](7-conclusion/index.md)
 
