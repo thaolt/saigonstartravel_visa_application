@@ -39,6 +39,7 @@ Các chú thích trong bản giá
 | - Chức năng live chat | | |![](/assets/check-blank.png) |
 | - Chức năng trang hỏi đáp | | | ![](/assets/check-blank.png)|
 | - PC sao lưu offline onsite | | |![](/assets/check-blank.png) |
+| - Tích hợp Google Analytics để theo dõi hành vi khách viếng thăm | | |![](/assets/check-blank.png) |
 
 ## Chi phí lưu trữ & bảo trì (/năm)
 
