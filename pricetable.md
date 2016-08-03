@@ -32,8 +32,8 @@ Các chú thích trong bản giá
 Đơn vị tính: ngàn VNĐ
 
 | Hạng mục                 | Thời gian | Giá thành | Lựa chọn |
-|--------------------------|-----------|-----------|----------|
-| Thiết kế web site        |           |           |          |
+|--------------------------|-----------|-----------|:--------:|
+| Thiết kế web site        |           |           |![          ](/assets/check-check.png)|
 | Xây dựng tính năng chính | | | |
 | **Phần bổ sung (tuỳ chọn)** | | | |
 | - Chức năng live chat | | | |
@@ -54,4 +54,8 @@ Các chú thích trong bản giá
 
 ## Ngân sách Online Marketing
 
+Đơn vị tính: ngàn VNĐ
 
+| | | |
+|-|-|-|
+| | | |
