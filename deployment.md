@@ -27,11 +27,12 @@
     * Tài khoản quản trị website.
     * Tài khoản quản lý thông tin tên miền.
 
-* Chuyển giao cũng bao gồm các tài liệu
+* Chuyển giao cũng bao gồm các tài liệu:
     * Tài liệu hướng dẫn sử dụng
-        * Dành cho quản trị viên
-        * Dành cho nhân viên xử lý đơn xin thị thực
+        * Dành cho quản trị viên.
+        * Dành cho nhân viên xử lý đơn xin thị thực.
+        * Dành cho nhân viên nhập liệu ( tin tức, thông báo )
     * Tài liệu kỹ thuật
-        * Quy trình sao lưu-phục hồi sau sự cố
-        * Tài liệu vận hành máy chủ
+        * Quy trình sao lưu-phục hồi sau sự cố.
+        * Tài liệu vận hành máy chủ.
 
