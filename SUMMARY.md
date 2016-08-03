@@ -1,6 +1,6 @@
 # Summary
 
-* [Lời nói đầu](README.md)
+* [Lời nói đầu](introduction.md)
 * [Thiết kế & Xây dựng website](development.md)
     * [Yêu cầu tổng quan](development.md#overview)
     * [Mô tả chức năng](development.md#functions)
