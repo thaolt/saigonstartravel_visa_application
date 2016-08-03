@@ -22,6 +22,8 @@ Các chú thích trong bản giá
 
 ## Chi phí thiết kế & xây dựng 
 
+Đơn vị tính: ngàn VNĐ
+
 | Hạng mục                 | Thời gian | Giá thành | Lựa chọn |
 |--------------------------|-----------|-----------|----------|
 | Thiết kế web site        |           |           |          |
