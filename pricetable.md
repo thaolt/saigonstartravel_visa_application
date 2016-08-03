@@ -26,6 +26,8 @@ Các chú thích trong bản giá
 |---------------------|-----------|-----------|----------|
 | Thiết kế            |           |           |          |
 | Xây dựng tính năng  | 
+| **Phần bổ sung (tuỳ chọn)** | | | |
+
 
 ## Chi phí lưu trữ & bảo trì
 
