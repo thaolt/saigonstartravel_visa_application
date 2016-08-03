@@ -1,6 +1,6 @@
 # Bảng kế hoạch triển khai
 
-## Chi tiết kỹ thuật hạng mục triển khai {#
+## Chi tiết kỹ thuật hạng mục triển khai {#deploydetail}
 
 ### Hạ tầng máy chủ 
 
