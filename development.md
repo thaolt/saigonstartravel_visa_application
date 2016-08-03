@@ -77,7 +77,7 @@ Bao gồm 3 bước
 
 ### Trang quản trị
 
--
+- Tin tức: có khả năng thêm/xoá/sửa 
 - Ngôn ngữ: có chức năng tự động tạo/xóa/sửa ngôn ngữ mới cho website
 
 ### Các chức năng bổ sung đề nghị
@@ -85,6 +85,8 @@ Bao gồm 3 bước
 #### Trang hỏi đáp (Q & A)
 
 #### Chức năng hỗ trợ trực tuyến (live chat)
+
+Cung cấp khả năng 
 
 ## Yêu cầu kỹ thuật {#technical}
 
