@@ -8,4 +8,9 @@ With it's definition, this can contain bold text and all other kinds of inline m
 sadasc
 
 ## VR
-Virtual Reality - 
+Virtual Reality - Công nghệ thực tế ảo
+
+## AR
+Augmented Reality - Thực tế tăng cường
+
+## 

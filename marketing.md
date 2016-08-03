@@ -1,5 +1,6 @@
 # Chiến lược & Ngân sách đề nghị cho Online Marketing
 
+* Đối tượng khách hàng tiềm năng là khách từ các nước Châu Âu (như Anh, Pháp, Đức, Bỉ, Hà Lan, Tây Ban Nha, v.v..) đang có nhu cầu xin Visa (thị thực) đến Việt Nam.
 * Tối ưu hoá website cho các bộ máy tìm kiếm (SEO) với các keywords được đề nghị như sau:
     * "Visa pour Vietnam", "comment appliquer visa vietnam?"
     * "Visa a Vietnam", "cómo solicitar visa a Vietnam?"
@@ -10,5 +11,5 @@
     * google.co.uk
     * google.de
     * google.es
-* 
+* T
 
