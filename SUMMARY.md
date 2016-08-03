@@ -1,6 +1,6 @@
 # Summary
 
-## [Lời nói đầu](README.md)
+### [Lời nói đầu](README.md)
 * [Lời nói đầu](README.md)
 * [Lời nói đầu](1-introduction/README.md)
 
