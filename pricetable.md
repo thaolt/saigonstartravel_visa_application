@@ -23,7 +23,7 @@ Chi phí tối thiểu cho dự án "Ứng dụng web gởi đơn xin cấp th�
 
 Các chú thích trong bản giá
 
-![](/assets/check-blank.png) 
+![](/assets/check-blank.png)
 
 ![](/assets/check-check.png)
 
