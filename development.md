@@ -77,8 +77,8 @@ Bao gồm 3 bước
 
 ### Trang quản trị
 
-- Tin tức: có khả năng thêm/xoá/sửa 
-- Ngôn ngữ: có chức năng tự động tạo/xóa/sửa ngôn ngữ mới cho website
+- Tin tức: có khả năng thêm/xoá/sửa tin tức và các chuyên mục.
+- Ngôn ngữ: có chức năng tự động tạo/xóa/sửa ngôn ngữ mới cho website.
 
 ### Các chức năng bổ sung đề nghị
 
