@@ -9,5 +9,3 @@ Virtual Reality - Công nghệ thực tế ảo
 
 ## AR
 Augmented Reality - Thực tế tăng cường
-
-## 
