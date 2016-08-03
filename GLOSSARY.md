@@ -1,3 +1,5 @@
+# GLOSSARY
+
 ## BW
 Bandwith - Băng thông
 
