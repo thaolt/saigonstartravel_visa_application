@@ -1,5 +1,7 @@
 {
-    "plugins": ["numbered-headings"],
+    "plugins": [
+        "-sharing"
+    ],
     "pluginsConfig": {
         "theme-default": {
             "styles": {},
