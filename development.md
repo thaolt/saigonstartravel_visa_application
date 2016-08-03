@@ -90,11 +90,11 @@ Cung cấp khả năng
 
 ## Yêu cầu kỹ thuật {#technical}
 
-Dưới đây là một số yêu cầu kỹ thuật tổng quan, để biết thêm chi tiết vui lòng tham khảo Bảng kế hoạch triển khai
+Dưới đây là một số yêu cầu kỹ thuật tổng quan, để biết thêm chi tiết vui lòng tham khảo Bảng kế hoạch triển khai.
 
 ### Tối ưu hoá
 
-
+- 
 
 ### Bảo mật
 
