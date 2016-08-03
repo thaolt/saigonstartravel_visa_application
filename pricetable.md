@@ -25,11 +25,11 @@ Với thời gian tối thiểu là: 35 ngày làm việc
 
 Các chú thích trong bản giá
 
-> ![](/assets/check-blank.png)
+![](/assets/check-blank.png)
 > Các lựa chọn được đề nghị có thể bổ sung nếu quý khách hàng mong muốn.
 
 
-> ![](/assets/check-check.png)
+![](/assets/check-check.png)
 > Các hạng mục chính cần thiết cho dự án.
 
 ## Chi phí thiết kế & xây dựng 
