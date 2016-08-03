@@ -25,6 +25,8 @@
     * Tài khoản quản trị Server lưu trữ.
     * Tài khoản sao lưu trên điện toán đám mây (cloud).
     * Tài khoản quản trị website.
+    * Tài khoản quản lý thông tin tên miền.
+
 * Chuyển giao cũng bao gồm các tài liệu
     * Tài liệu hướng dẫn sử dụng
         * Dành cho quản trị viên
