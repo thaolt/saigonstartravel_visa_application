@@ -26,8 +26,10 @@ Với thời gian tối thiểu là: 35 ngày làm việc
 Các chú thích trong bản giá
 
 ![](/assets/check-blank.png)
+Các lựa chọn được đề nghị có thể bổ sung nếu quý khách hàng mong muốn.
 
 ![](/assets/check-check.png)
+Các hạng mục chính cần thiết cho dự án.
 
 ## Chi phí thiết kế & xây dựng 
 
@@ -35,7 +37,7 @@ Các chú thích trong bản giá
 Đơn vị thời gian: ngày làm việc không bao gồm ngày nghỉ và ngày lễ 
 
 | Hạng mục                 | Thời gian | Giá thành | Lựa chọn |
-|--------------------------|-----------|-----------|:--------:|
+|--------------------------|-----------|----------:|:--------:|
 | Thiết kế web site        |           |           |![          ](/assets/check-check.png)|
 | Xây dựng tính năng chính | | |![](/assets/check-check.png) |
 | **Phần bổ sung (tuỳ chọn)** | | | |
