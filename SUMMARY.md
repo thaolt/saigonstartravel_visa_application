@@ -11,6 +11,9 @@
 * [Kế hoạch Sao lưu-phục hồi & Bảo trì](maintenance.md)
 * [Chiến lược & Ngân sách đề nghị cho Online Marketing](marketing.md)
 * [Bảng báo giá](pricetable.md)
+    * Chi phí thiết kế, xây dựng & triển khai
+
+    * 
 * [Lời kết](conclusion.md)
 
 
