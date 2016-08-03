@@ -39,13 +39,14 @@ Các chú thích trong bảng giá
 
 | Hạng mục                 | Thời gian | Giá thành | Lựa chọn |
 |--------------------------|-----------|----------:|:--------:|
-| Thiết kế web site        | 10        | 2.200     |![          ](/assets/check-check.png)|
-| Xây dựng tính năng chính | 25 | 5.500 |![](/assets/check-check.png) |
+| Thiết kế web site        | 10        | 17.600     |![          ](/assets/check-check.png)|
+| Xây dựng tính năng chính | 25 | 44.000 |![](/assets/check-check.png) |
 | **Phần bổ sung (tuỳ chọn)** |  |  | |
-| - Chức năng live chat | | |![](/assets/check-blank.png) |
-| - Chức năng trang hỏi đáp | | | ![](/assets/check-blank.png)|
-| - PC sao lưu offline onsite | | |![](/assets/check-blank.png) |
-| - Tích hợp Google Analytics để theo dõi hành vi khách viếng thăm | | |![](/assets/check-blank.png) |
+| - Chức năng live chat | 2 | 3.520 |![](/assets/check-blank.png) |
+| - Chức năng trang hỏi đáp | 2 | 3.520 | ![](/assets/check-blank.png)|
+| - PC sao lưu offline onsite* | 1 | 1760 |![](/assets/check-blank.png) |
+| - Tích hợp Google Analytics để theo dõi hành vi khách viếng thăm | 1 | 1760 |![](/assets/check-blank.png) |
+_(*) cộng 10 triệu đồng giá PC offline để bàn tại công ty nếu chưa có hoặc muốn mua mới_
 
 ## Chi phí lưu trữ & bảo trì (/năm)
 
