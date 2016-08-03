@@ -23,7 +23,7 @@ Chi phí tối thiểu cho dự án "Ứng dụng web gởi đơn xin cấp th�
 
 Với thời gian tối thiểu là: 35 ngày làm việc
 
-Các chú thích trong bản giá
+Các chú thích trong bảng giá
 
 ![](/assets/check-blank.png)
 > Các lựa chọn được đề nghị có thể bổ sung nếu quý khách hàng mong muốn.
