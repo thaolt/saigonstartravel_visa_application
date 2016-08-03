@@ -28,7 +28,8 @@
 * Chuyển giao cũng bao gồm các tài liệu
     * Tài liệu hướng dẫn sử dụng
         * Dành cho quản trị viên
-        * 
+        * Dành cho nhân viên xử lý đơn xin thị thực
     * Tài liệu kỹ thuật
-        * 
+        * Quy trình sao lưu-phục hồi sau sự cố
+        * Tài liệu vận hành máy chủ
 
