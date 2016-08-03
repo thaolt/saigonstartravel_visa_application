@@ -10,5 +10,24 @@
 
 ### Các dự án thương mại điện tử có liên quan
 
+Hầu hết các khách hàng của chúng tôi từ Mỹ, Anh, Bỉ, Nhật, Úc với các dự án tiêu biểu:
+
+- sextoys123.co.uk
+- maplesandbirch.co.uk
+- bestusapropertyinvestments.com
+- top-motion.be
+- wvs.tizoo.com
+- beauty.hotpepper.jp
+- kidsmagic.jp
+- www.anzbms.org.au
+- atdtech.com.au
+
+#### Các dự án website ở Việt Nam
+
+- myphamthinhphat.com
+- myphamalpha.com
+- superbrain.edu.vn
+- rusviet.com
+- congnghethucteao.vn
 
 
