@@ -22,8 +22,6 @@ Công ty SaigonStar Travel muốn có một giải pháp cho phép người sử
 
 ## Mô tả chức năng {#functions}
 
-
-
 ### Trang chủ (giới thiệu)
 
 - Có chứa một số hình ảnh bắt mắt về Việt Nam và SaigonStar Travel (images slideshow)
