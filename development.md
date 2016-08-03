@@ -94,7 +94,9 @@ Dưới đây là một số yêu cầu kỹ thuật tổng quan, để biết t
 
 ### Tối ưu hoá
 
-- 
+- Có các chức năng tối ưu hoá địa chỉ trang web (Search Engine Friendly URL).
+- Tối ưu bộ đệm trình duyệt của khách hàng
+- Có bộ đệm trung gian giữa người dùng cuối và mấy chủ, giúp giảm lượng tải của máy chủ và tăng thời gian truy cập của người dùng.
 
 ### Bảo mật
 
