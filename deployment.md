@@ -22,10 +22,13 @@
 
 * Sau khi nghiệm thu, DFM có thể gởi một kỹ sư phần mềm đến SaigonStar Travel để tiến hành chuyển giao công nghệ và đào tạo quản trị viên cho SaigonStar Travel.
 * Thông tin các loại tài khoản sẽ chuyển giao:
-    * Tài khoản quản trị Server lưu trữ
-    * Tài khoản sao lưu trên điện toán đám mây (cloud)
-    * 
+    * Tài khoản quản trị Server lưu trữ.
+    * Tài khoản sao lưu trên điện toán đám mây (cloud).
+    * Tài khoản quản trị website.
 * Chuyển giao cũng bao gồm các tài liệu
     * Tài liệu hướng dẫn sử dụng
+        * Dành cho quản trị viên
+        * Quy trình sao lưu-phục hồi sau sự cố
     * Tài liệu kỹ thuật
+        * 
 
