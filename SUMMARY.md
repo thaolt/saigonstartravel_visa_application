@@ -1,6 +1,9 @@
-# [Lời nói đầu](README.md)
 
-### [Thiết kế & Xây dựng website](2-development/README.md)
+* [Lời nói đầu](README.md)
+
+----
+
+* [Thiết kế & Xây dựng website](2-development/README.md)
     * [Yêu cầu tổng quan](2-development/README.md#overview)
     * [Mô tả chức năng](2-development/README.md#functions)
     * [Yêu cầu kỹ thuật](2-development/README.md#technical)
