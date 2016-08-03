@@ -8,8 +8,8 @@
   * [Yêu cầu kỹ thuật](2-development/index.md#technical)
 
 * [Kế hoạch triển khai](3-deployment/index.md)
-  * [Triển khai hạ tầng kỹ thuật](2-development/index.md#sysspecs)
-  * [Chuyển giao công nghệ và đào tạo](2-development/index.md#transfer)
+  * [Triển khai hạ tầng kỹ thuật](3-development/index.md#sysspecs)
+  * [Chuyển giao công nghệ và đào tạo](3-development/index.md#transfer)
 
 * [Kế hoạch Sao lưu-phục hồi & Bảo trì](4-maintenance/index.md)
 
