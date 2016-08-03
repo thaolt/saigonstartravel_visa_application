@@ -37,12 +37,12 @@ Công ty SaigonStar Travel muốn có một giải pháp cho phép người sử
 - Khi khách bấm (click) vào 1 tiêu đề tin tức, sẽ dẫn đến trang hiển thị tin tức chi tiết đầy đủ.
 - Tin tức và chuyên mục có thể được thêm/xóa/sửa trong trang quản trị.
 
-### Trang thông tin
+### Trang thông tin (information)
 
 Trang thông tin sẽ bao gồm:
 
-- Danh sách các mục đích xin Visa và hướng dẫn
-- Danh sách các phương thức thanh toán và hướng dẫn
+- Danh sách các mục đích xin Visa và hướng dẫn.
+- Danh sách các phương thức thanh toán và hướng dẫn.
 
 #### Các loại mục đích xin Visa
 
