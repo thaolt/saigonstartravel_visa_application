@@ -33,12 +33,14 @@ Các chú thích trong bản giá
 | - Chức năng trang hỏi đáp | | | |
 
 
-## Chi phí lưu trữ & bảo trì
+## Chi phí lưu trữ & bảo trì (/năm)
 
-| Dịch vụ |  Cấu hình | Lựa chọn |
-|--------------------------|-----------|-----------|
-| Thiết kế web site | | | |
-| Xây dựng tính năng chính | | | |
+Đơn vị tính: US$
+
+| Dịch vụ | Cấu hình | Giá thành | Lựa chọn |
+|---------|----------|-----------|----------|
+| Lưu trữ/phục vụ web (hosting) | | | |
+| Tên miền .vn | $25 | | |
 | **Phần bổ sung (tuỳ chọn)** | | | |
 | - Chức năng live chat | | | |
 | - Chức năng trang hỏi đáp | | | |
