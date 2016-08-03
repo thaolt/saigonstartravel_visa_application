@@ -69,11 +69,11 @@ Bao gồm 3 bước
 
 #### Bước 3: Xác nhận và thanh toán
 
-- Sau khi thanh toán thành công
+- Sau khi xác nhận thanh toán thành công website sẽ hiển thị mã số theo dõi cho khách hàng. 
 
 ### Trang dành riêng cho khách hàng theo dõi đơn cấp Visa của mình
 
-- Khách hàng điền vào mã số hóa đơn của mình
+- Khách hàng điền vào mã số theo dõi của mình.
 
 ### Trang quản trị
 
