@@ -35,8 +35,8 @@ Các chú thích trong bản giá
 
 ## Chi phí lưu trữ & bảo trì
 
-| Hạng mục |  Cấu hình | Lựa chọn |
-|--------------------------|-----------|-----------|----------|
+| Dịch vụ |  Cấu hình | Lựa chọn |
+|--------------------------|-----------|-----------|
 | Thiết kế web site | | | |
 | Xây dựng tính năng chính | | | |
 | **Phần bổ sung (tuỳ chọn)** | | | |
