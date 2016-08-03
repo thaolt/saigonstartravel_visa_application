@@ -37,7 +37,7 @@ Các chú thích trong bản giá
 
 | Dịch vụ | Cấu hình | Giá thành | Lựa chọn |
 |---------|----------|-----------|----------|
-| Lưu trữ/phục vụ web (hosting) | Space:20GB - BW:300GB    | 12.000 | |
+| Lưu trữ/phục vụ web (hosting) | Space:20GB - BW:300GB | 12.000 | |
 | Tên miền | .vn/.com.vn | 500 | |
 | **Phần bổ sung (tuỳ chọn)** | | | |
 | Sao lưu-phục hồi trên điện toán đám mây | 1 TB | 3960 | |
