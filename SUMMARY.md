@@ -21,7 +21,7 @@
 
 ----
 
-[Kế hoạch Sao lưu-phục hồi & Bảo trì](4-maintenance/index.md)
+[Kế hoạch Sao lưu,phục hồi và bảo trì](4-maintenance/index.md)
 
 ----
 
