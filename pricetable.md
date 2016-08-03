@@ -14,9 +14,7 @@ Tương ứng với 3 mục này sẽ có 3 hợp đồng:
 
 Quy tắc tính giá
 
-
 Chi phí tối thiểu cho dự án "Ứng dụng web gởi đơn xin cấp thị thực cho SaigonStar Travel" ước tính là: 
-
 
 Các chú thích trong bản giá
 
@@ -35,11 +33,11 @@ Các chú thích trong bản giá
 
 ## Chi phí lưu trữ & bảo trì (/năm)
 
-Đơn vị tính: US$
+Đơn vị tính: ngàn VNĐ
 
 | Dịch vụ | Cấu hình | Giá thành | Lựa chọn |
 |---------|----------|-----------|----------|
-| Lưu trữ/phục vụ web (hosting) | | | |
+| Lưu trữ/phục vụ web (hosting) |  | | |
 | Tên miền | .vn/.com.vn | $25 | |
 | **Phần bổ sung (tuỳ chọn)** | | | |
 | - Chức năng live chat | | | |
