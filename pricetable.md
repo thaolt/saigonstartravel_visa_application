@@ -51,7 +51,7 @@ Các hạng mục chính cần thiết cho dự án.
 Đơn vị tính: ngàn VNĐ
 
 | Dịch vụ | Cấu hình | Giá thành | Lựa chọn |
-|---------|----------|-----------|----------|
+|---------|----------|----------:|----------|
 | Lưu trữ/phục vụ web (hosting) | Space:40GB - BW:3.000GB | 12.000 |![](/assets/check-check.png)  |
 | Tên miền | .vn/.com.vn | 500 |![](/assets/check-check.png) |
 | **Phần bổ sung (tuỳ chọn)** | | | |
