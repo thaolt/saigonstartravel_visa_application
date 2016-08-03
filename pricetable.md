@@ -15,7 +15,7 @@ Tương ứng với 3 mục này sẽ có 3 hợp đồng:
 Quy tắc tính giá
 
 
-Chi phí tối thiểu cho dự án "Ứng dụng web gởi đơn xin cấp thị thực "
+Chi phí tối thiểu cho dự án "Ứng dụng web gởi đơn xin cấp thị thực cho SaigonStar Travel" ước tính là: 
 
 
 Các chú thích trong bản giá
@@ -35,7 +35,7 @@ Các chú thích trong bản giá
 
 ## Chi phí lưu trữ & bảo trì
 
-| Hạng mục | Thời gian | Giá thành | Lựa chọn |
+| Hạng mục |  Cấu hình | Lựa chọn |
 |--------------------------|-----------|-----------|----------|
 | Thiết kế web site | | | |
 | Xây dựng tính năng chính | | | |
