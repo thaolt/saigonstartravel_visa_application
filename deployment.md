@@ -28,7 +28,7 @@
 * Chuyển giao cũng bao gồm các tài liệu
     * Tài liệu hướng dẫn sử dụng
         * Dành cho quản trị viên
-        * Quy trình sao lưu-phục hồi sau sự cố
+        * 
     * Tài liệu kỹ thuật
         * 
 
