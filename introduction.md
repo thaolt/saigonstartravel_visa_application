@@ -13,8 +13,8 @@
 Hầu hết các khách hàng của chúng tôi từ Mỹ, Anh, Bỉ, Nhật, Úc với các dự án tiêu biểu:
 
 - sextoys123.co.uk
-- wvs.tizoo.com
 - maplesandbirch.co.uk
+- wvs.tizoo.com
 - bestusapropertyinvestments.com
 - top-motion.be
 - beauty.hotpepper.jp
