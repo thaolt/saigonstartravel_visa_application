@@ -22,9 +22,9 @@ Các chú thích trong bản giá
 
 ## Chi phí thiết kế & xây dựng 
 
-| Hạng mục            | Thời gian | Giá thành | Lựa chọn |
-|---------------------|-----------|-----------|----------|
-| Thiết kế            |           |           |          |
+| Hạng mục                 | Thời gian | Giá thành | Lựa chọn |
+|--------------------------|-----------|-----------|----------|
+| Thiết kế web site        |           |           |          |
 | Xây dựng tính năng chính  | | | |
 | **Phần bổ sung (tuỳ chọn)** | | | |
 | - Chức năng live chat | | | |
