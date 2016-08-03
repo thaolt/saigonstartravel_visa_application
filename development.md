@@ -44,7 +44,7 @@ Trang thông tin sẽ bao gồm:
 - Danh sách các mục đích xin Visa và hướng dẫn.
 - Danh sách các phương thức thanh toán và hướng dẫn.
 
-#### Các loại mục đích xin Visa
+#### Các trang con của các loại mục đích xin Visa
 
 - Du lịch (Tourism)
 - Công tác (Business)
@@ -52,7 +52,7 @@ Trang thông tin sẽ bao gồm:
 
 _Có thể bổ sung thêm_
 
-#### Các phương thức thanh toán (payment methods)
+#### Danh sách các phương thức thanh toán (payment methods)
 
 - Paypal (thành viên)
 - Credit card (VISA, Mastercard)
