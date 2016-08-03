@@ -27,6 +27,10 @@ Các chú thích trong bản giá
 | Thiết kế            |           |           |          |
 | Xây dựng tính năng  | | | |
 | **Phần bổ sung (tuỳ chọn)** | | | |
+| - Chức năng live chat | | | |
+| - Chức năng trang hỏi đáp | | | |
+
+
 
 
 ## Chi phí lưu trữ & bảo trì
