@@ -66,7 +66,6 @@ Bao gồm 3 bước
 
 #### Bước 1: Các lựa chọn cơ bản
 
-- Kha
 
 #### Bước 2: Khai báo thông tin chi tiết
 
