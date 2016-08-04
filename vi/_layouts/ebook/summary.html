@@ -10,7 +10,7 @@
                     {% if article.path %}
                         {{ article.level }} <a href="{{ article.path|contentURL }}{{ article.anchor }}">{{ article.title }}</a>
                     {% else %}
-                        <a target="_blank" href="{{ article.url }}">{{ article.title }}</a>
+                        <a target="_blank" href="{{ article.url }}">{{ article.level }} {{ article.title }}</a>
                     {% endif %}
                 {% else %}
                     <span>{{ article.level }} {{ article.title }}</span>
