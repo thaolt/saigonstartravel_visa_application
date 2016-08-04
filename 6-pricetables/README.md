@@ -23,7 +23,7 @@ Chi phí tối thiểu cho dự án "Ứng dụng web gởi đơn xin cấp th�
 
 Với thời gian tối thiểu là: 35 ngày làm việc
 
-Các chú thích trong bảng giá
+** Các chú thích trong bảng giá**
 
 ![](/assets/check-blank.png)
 
@@ -41,7 +41,9 @@ Các chú thích trong bảng giá
 | Hạng mục | Thời gian | Giá thành | Lựa chọn |
 | --- | --- | --- | --- |
 | Thiết kế web site | 10 | 19.200 | ![          ](/assets/check-check.png) |
-| Xây dựng tính năng chính | 25 | 48.000 | ![](/assets/check-check.png) |
+| **Xây dựng tính năng chính** | 25 | 48.000 | ![](/assets/check-check.png) |
+| - Tích hợp thanh toán Paypal & Stripe | 6 |  | ![](/assets/check-check.png) |
+| - Tích hợp thanh toán Paypal & Stripe | 6 | | ![](/assets/check-check.png) |
 | **Phần bổ sung \(tuỳ chọn\)** |  |  |  |
 | - Chức năng live chat | 2 | 3.840 | ![](/assets/check-blank.png) |
 | - Chức năng trang hỏi đáp | 2 | 3.840 | ![](/assets/check-blank.png) |
