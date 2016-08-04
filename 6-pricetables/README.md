@@ -36,6 +36,7 @@ _** Các chú thích trong bảng giá**_
 ## Chi phí thiết kế, xây dựng & triển khai {#deployfee}
 
 Đơn vị tiền: ngàn VNĐ
+
 Đơn vị thời gian: ngày làm việc không bao gồm ngày nghỉ và ngày lễ
 
 | Hạng mục | Thời gian | Giá thành | Lựa chọn |
