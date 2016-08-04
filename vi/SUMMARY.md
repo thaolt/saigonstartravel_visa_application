@@ -7,6 +7,8 @@
     * [III.1. Triển khai hạ tầng kỹ thuật](3-deployment/README.md#sysspecs)
     * [III.2. Chuyển giao công nghệ và đào tạo](3-deployment/README.md#transfer)
 * [IV. Kế hoạch Sao lưu-phục hồi & bảo trì](4-maintenance/README.md)
+    * [IV.1. Dịch vụ phục vụ lưu trữ web và tên miền](4-maintenance/README.md)
+    * [IV.2. Sao lưu dự phòng và phục hồi](4-maintenance/README.md)
 * [V. Chiến lược & Ngân sách đề nghị cho Online Marketing](5-marketing/README.md)
     * [V.1. Tối ưu hoá website cho các bộ máy tìm kiếm](5-marketing/README.md#seo)
     * [V.2. Tạo và quảng báo các trang mạng xã hội](5-marketing/README.md#social)
