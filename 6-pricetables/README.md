@@ -42,7 +42,8 @@ Với thời gian tối thiểu là: 35 ngày làm việc
 | --- | --- | --- | --- |
 | Thiết kế web site | 10 | 19.200 | ![          ](/assets/check-check.png) |
 | **Xây dựng tính năng chính** | 25 | 48.000 | ![](/assets/check-check.png) |
-| - Tích hợp thanh toán Paypal & Stripe | 6 |  | ![](/assets/check-check.png) |
+| - Thiết kế xây dựng cơ sở dữ liệu | 3 |  | ![](/assets/check-check.png) |
+| - Xây dựng chức năng gởi đơn online | 8 | | ![](/assets/check-check.png) |
 | - Tích hợp thanh toán Paypal & Stripe | 6 | | ![](/assets/check-check.png) |
 | **Phần bổ sung \(tuỳ chọn\)** |  |  |  |
 | - Chức năng live chat | 2 | 3.840 | ![](/assets/check-blank.png) |
