@@ -27,7 +27,7 @@
 * [Bảng báo giá](6-pricetables/README.md)
     * [Chi phí thiết kế, xây dựng & triển khai](6-pricetables/README.md#maintenance)
     * [Chi phí lưu trữ & bảo trì](6-pricetables/README.md#maintenance)
-    * [Kế hoạch & Ngân sách Online Marketing](6-pricetables/README.md#maintenance)
+    * [Kế hoạch & Ngân sách Online Marketing](6-pricetables/README.md#budget.md)
 
 -----
 * [Lời kết](7-conclusion/README.md)
