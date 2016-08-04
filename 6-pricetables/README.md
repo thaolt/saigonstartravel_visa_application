@@ -74,4 +74,4 @@ _\(\*\) cộng 10 triệu đồng giá PC offline để bàn tại công ty nế
 |  Lượt truy cập website | 6.000 | 12.000  | 20.000 |
 |  Google Plus lượt xem  |  | 100  | 200 |
 |  Twitter followers |  |  | 200 |
-| **Giá** | 2.000 | 4.000 | 8.000 |
+| **Giá** | 2.200 | 4.400 | 8.800 |
