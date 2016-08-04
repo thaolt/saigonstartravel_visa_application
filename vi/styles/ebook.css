@@ -1,3 +1,7 @@
 .pdf-header {
 	background: transparent url(assets/dfm-logo.png) no-repeat;
 }
+
+a {
+    color: #000000;
+}
