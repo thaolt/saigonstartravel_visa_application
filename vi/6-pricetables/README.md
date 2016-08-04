@@ -55,7 +55,7 @@ _** Các chú thích trong bảng giá**_
 
 _\(\*\) cộng 10 triệu đồng giá PC offline để bàn tại công ty nếu chưa có hoặc muốn mua mới_
 
-## Chi phí lưu trữ & bảo trì \(\/năm\)
+## Chi phí lưu trữ & bảo trì \(\/năm\) {#maintenfee}
 
 Đơn vị tính: ngàn VNĐ
 
@@ -66,7 +66,7 @@ _\(\*\) cộng 10 triệu đồng giá PC offline để bàn tại công ty nế
 | **Phần bổ sung \(tuỳ chọn\)** |  |  |  |
 | Sao lưu-phục hồi trên điện toán đám mây | 1.000 GB | 4280 | ![](/assets/check-blank.png) |
 
-## Ngân sách Online Marketing
+## Ngân sách Online Marketing {#seobudget}
 
 Đơn vị tính: ngàn VNĐ
 

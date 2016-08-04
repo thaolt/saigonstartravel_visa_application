@@ -9,8 +9,8 @@
 * [Kế hoạch Sao lưu,phục hồi & bảo trì](4-maintenance/README.md)
 * [Chiến lược & Ngân sách đề nghị cho Online Marketing](5-marketing/README.md)
 * [Bảng báo giá](6-pricetables/README.md)
-    * [Chi phí thiết kế, xây dựng & triển khai](6-pricetables/README.md#maintenance)
-    * [Chi phí lưu trữ & bảo trì](6-pricetables/README.md#maintenance)
-    * [Kế hoạch & Ngân sách Online Marketing](6-pricetables/README.md#budget)
+    * [Chi phí thiết kế, xây dựng & triển khai](6-pricetables/README.md#deployfee)
+    * [Chi phí lưu trữ & bảo trì](6-pricetables/README.md#maintenfee)
+    * [Kế hoạch & Ngân sách Online Marketing](6-pricetables/README.md#seobudget)
 * [Lời kết](7-conclusion/README.md)
 
