@@ -8,15 +8,15 @@
             <span class="inner">
                 {% if article.path or article.url %}
                     {% if article.path %}
-                        <a href="{{ article.path|contentURL }}{{ article.anchor }}">{{ article.title }}</a>
+                        {{ article.level }} <a href="{{ article.path|contentURL }}{{ article.anchor }}">{{ article.title }}</a>
                     {% else %}
                         <a target="_blank" href="{{ article.url }}">{{ article.title }}</a>
                     {% endif %}
                 {% else %}
-                    <span>{{ article.title }}</span>
+                    <span>{{ article.level }} {{ article.title }}</span>
                 {% endif %}
                 {% if 1 %}
-                <span class="page">{{ article.level }}</span>
+                <span class="page"></span>
                 {% endif %}
             </span>
             {% if article.articles.length > 0 %}
