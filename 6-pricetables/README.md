@@ -68,7 +68,7 @@ _\(\*\) cộng 10 triệu đồng giá PC offline để bàn tại công ty nế
 Định kỳ: hàng tháng
 
 |  | Gói 1 | Gói 2 | Gói 3 |
-| --- | --- | --- |--|
+| --- | --- | --- |----|
 |  Ngân sách ngày cho Google Adwords  | 50 | 100  | 200 |
 |  Facebook fanpage likes | 100 | 200 | 500 |
 |  Lượt truy cập website | 6.000 | 12.000  | 20.000 |
