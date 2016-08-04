@@ -12,7 +12,7 @@ Tương ứng với 3 mục này sẽ có 3 hợp đồng:
 * Hợp đồng lưu trữ và bảo trì website
 * Hợp đồng online marketing cho website
 
-**Quy tắc tính giá**
+**Quy tắc tính giá thiết kế và xây dựng**
 
 Dựa trên số ngày công
 
