@@ -111,6 +111,8 @@ Dưới đây là một số yêu cầu kỹ thuật tổng quan, để biết t
 ### Thanh toán trực tuyến
 
 - Tích hợp dịch vụ thanh toán của Paypal (thông qua API).
+- Tích hợp dịch vụ thanh toán của Stripe (thông qua API).
+
 
 ### Máy chủ email
 
