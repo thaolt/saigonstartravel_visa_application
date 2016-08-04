@@ -64,6 +64,7 @@ _\(\*\) cộng 10 triệu đồng giá PC offline để bàn tại công ty nế
 ## Ngân sách Online Marketing
 
 Đơn vị tính: ngàn VNĐ
+
 Định kỳ: hàng tháng
 
 |  | Gói 1 | Gói 2 | Gói 3 |
@@ -71,6 +72,6 @@ _\(\*\) cộng 10 triệu đồng giá PC offline để bàn tại công ty nế
 |  Ngân sách ngày cho Google Adwords  | 50 | 100  | 200 |
 |  Facebook fanpage likes | 100 | 200 | 500 |
 |  Lượt truy cập website | 6.000 | 12.000  | 20.000 |
-|  Google Plus lượt xem  |  |  |
-|  Twitter followers |  |  |
+|  Google Plus lượt xem  |  | 100  | 200 |
+|  Twitter followers |  |  | 200 |
 | **Giá** | 2.000 | 4.000 | 8.000 |
