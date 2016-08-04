@@ -16,10 +16,10 @@ Tương ứng với 3 mục này sẽ có 3 hợp đồng:
 
 Dựa trên số ngày công
 
-* Giá giờ công: 220.000 VNĐ \/ giờ 
-* Giá ngày công: 1.760.000 VNĐ \/ ngày
+* Giá giờ công: 240.000 VNĐ \/ giờ 
+* Giá ngày công: 1.920.000 VNĐ \/ ngày
 
-Chi phí tối thiểu cho dự án "Ứng dụng web gởi đơn xin cấp thị thực cho SaigonStar Travel" \(bao gồm phí lưu trữ + tên miền năm đầu tiên\) ước tính là: 74.1 triệu đồng \( 12.000.000 + 500.000 + 61.600.000 \)
+Chi phí tối thiểu cho dự án "Ứng dụng web gởi đơn xin cấp thị thực cho SaigonStar Travel" \(bao gồm phí lưu trữ + tên miền năm đầu tiên\) ước tính là: 79.7 triệu đồng \( 12.000.000 + 500.000 + 67.200.000 \)
 
 Với thời gian tối thiểu là: 35 ngày làm việc
 
@@ -40,13 +40,13 @@ Các chú thích trong bảng giá
 
 | Hạng mục | Thời gian | Giá thành | Lựa chọn |
 | --- | --- | --- | --- |
-| Thiết kế web site | 10 | 17.600 | ![          ](/assets/check-check.png) |
-| Xây dựng tính năng chính | 25 | 44.000 | ![](/assets/check-check.png) |
+| Thiết kế web site | 10 | 19.200 | ![          ](/assets/check-check.png) |
+| Xây dựng tính năng chính | 25 | 48.000 | ![](/assets/check-check.png) |
 | **Phần bổ sung \(tuỳ chọn\)** |  |  |  |
-| - Chức năng live chat | 2 | 3.520 | ![](/assets/check-blank.png) |
-| - Chức năng trang hỏi đáp | 2 | 3.520 | ![](/assets/check-blank.png) |
-| - PC sao lưu offline onsite\* | 1 | 1760 | ![](/assets/check-blank.png) |
-| - Tích hợp Google Analytics để theo dõi hành vi khách viếng thăm | 1 | 1760 | ![](/assets/check-blank.png) |
+| - Chức năng live chat | 2 | 3.840 | ![](/assets/check-blank.png) |
+| - Chức năng trang hỏi đáp | 2 | 3.840 | ![](/assets/check-blank.png) |
+| - PC sao lưu offline onsite\* | 1 | 1920 | ![](/assets/check-blank.png) |
+| - Tích hợp Google Analytics để theo dõi hành vi khách viếng thăm | 1 | 1920 | ![](/assets/check-blank.png) |
 
 _\(\*\) cộng 10 triệu đồng giá PC offline để bàn tại công ty nếu chưa có hoặc muốn mua mới_
 
@@ -57,9 +57,9 @@ _\(\*\) cộng 10 triệu đồng giá PC offline để bàn tại công ty nế
 | Dịch vụ | Cấu hình | Giá thành | Lựa chọn |
 | --- | --- | --- | --- |
 | Lưu trữ\/phục vụ web \(hosting\) | Space:40GB - BW:3.000GB | 12.000 | ![](/assets/check-check.png) |
-| Tên miền | .vn\/.com.vn | 500 | ![](/assets/check-check.png) |
+| Tên miền | .vn\/.com.vn | 550 | ![](/assets/check-check.png) |
 | **Phần bổ sung \(tuỳ chọn\)** |  |  |  |
-| Sao lưu-phục hồi trên điện toán đám mây | 1.000 GB | 3.960 | ![](/assets/check-blank.png) |
+| Sao lưu-phục hồi trên điện toán đám mây | 1.000 GB | 4280 | ![](/assets/check-blank.png) |
 
 ## Ngân sách Online Marketing
 
