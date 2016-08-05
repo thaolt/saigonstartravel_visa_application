@@ -107,18 +107,22 @@ Khách sẽ lựa chọn các tuỳ chọn bao gồm:
 
 Khách hàng sẽ điền vào Form thông tin chi tiết cho từng ứng xin cấp thị thực, bao gồm các thông tin:
 
-  * Tên đầy đủ (trong hộ chiếu)
+  * Tên đầy đủ
   * Ngày tháng năm sinh, nơi sinh
-  * Ngày đến
+  * Quốc tịch
+  * Nghề nghiệp
+  * Địa chỉ hiện tại
+  * Thông tin hộ chiếu ( tên trên hộ chiếu, loại hộ chiếu, cấp bởi, ngày cấp, ngày hết hạn )
+  * Ngày nhập cảnh dự kiến
   * Ngày xuất cảnh
-
-
--giới tính
+  * Đã từng đến Việt Nam hay chưa
 
 
 * **Bước 3: Xác nhận và thanh toán**
 
-    * Sau khi xác nhận thanh toán thành công website sẽ hiển thị mã số theo dõi cho khách hàng.
+    * Website sẽ cho phép khách hàng lựa chọn phương thức thanh toán.
+    * Sau khi lựa chọn phương thức thanh toán, khách hàng sẽ điền vào thông tin thanh toán của mình ( vd: số thẻ Credit card, tên trên thẻ, địa chỉ thanh toán, CVV ).
+    * Website sẽ liên kết với các cổng thanh toán (Paypal, Stripe) để xác nhận nếu thanh toán thành công sẽ hiển thị mã số theo dõi cho khách hàng và thông điệp cảm ơn.
 
 
 ### II.2.5. Trang dành riêng cho khách hàng theo dõi đơn cấp Visa của mình
