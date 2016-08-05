@@ -105,6 +105,8 @@ Khách sẽ lựa chọn các tuỳ chọn bao gồm:
 
 * **Bước 2: Khai báo thông tin chi tiết**
 
+Khách hàng sẽ điền vào Form thông tin chi tiết cho từng ứng xin cấp thị thực, bao gồm các thông tin:
+
   * Tên, giới tính
 
 
