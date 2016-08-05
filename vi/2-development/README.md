@@ -67,6 +67,8 @@ _Lưu ý: Stripe lấy phí dịch vụ trên mỗi giao dịch là _****_2,9% +
 
 ### II.2.4. Trang gởi đơn \(Apply for Visa\)
 
+Trang này sẽ tính và hiển thị tức thời số phí dịch vụ mà khách hàng cần phải trả.
+
 Bao gồm 3 bước
 
 * **Bước 1: Các lựa chọn cơ bản**
@@ -93,7 +95,7 @@ Khách sẽ lựa chọn các tuỳ chọn bao gồm:
       * Đà Nẵng
       * Cam Ranh
 
-Trang này sẽ tính và hiển thị số phí dịch vụ mà khách hàng cần phải trả.
+
 
 * **Bước 2: Khai báo thông tin chi tiết**
 
