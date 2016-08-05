@@ -34,5 +34,5 @@ Việc quảng bá bằng Google Adwords là rất quan trọng trong những th
 
 Tuỳ vào mức độ khó của từ khoá mà điều chỉnh ngân sách mỗi ngày cho hợp lý.
 
-Sau 3-4 tháng, khi website đã có mặt trên bảng xếp hạng Alexa, và có số lượng truy cập thường xuyên ổn định, quý khách hàng xem xét cắt hoặc giảm ngân sách dịch vụ này.
+Sau 3-4 tháng, khi website đã có mặt trên bảng xếp hạng Alexa, và có số lượng truy cập thường xuyên ổn định, quý khách hàng có thể xem xét cắt hoặc giảm ngân sách dịch vụ này.
 
