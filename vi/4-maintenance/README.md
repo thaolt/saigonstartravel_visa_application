@@ -1,6 +1,6 @@
 # IV. Dịch vụ bảo trì & kế hoạch Sao lưu-phục hồi
 
-## IV.1. Dịch vụ web hosting và tên miền (domain)
+## IV.1. Dịch vụ web hosting và tên miền (domain) {#hosting}
 
 Sau khi đăng ký một tên miền, quý khách có thể xem như đã có một địa chỉ trên Internet.
 
