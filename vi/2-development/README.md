@@ -135,14 +135,17 @@ Khách hàng sẽ điền vào Form thông tin chi tiết cho từng ứng xin c
 * Quản lý nội dung
     * Tin tức: có khả năng thêm\/xoá\/sửa tin tức và các chuyên mục.
     * Thêm/xoá/sửa nội dung các trang thông tin
-    * 
+
+* Quản lý đơn xin cấp phép ( xem, tải các thông tin chi tiết của đơn xin thị thực, cập nhật tình trạng )
 * Ngôn ngữ: có chức năng tự động tạo\/xóa\/sửa ngôn ngữ mới cho website.
+
 
 ### II.2.7. Các chức năng bổ sung đề nghị
 
 * **Trang hỏi đáp \(Q & A\)**
 
   * hỏi đáp
+
 
 * **Chức năng hỗ trợ trực tuyến \(live chat\)**
 
