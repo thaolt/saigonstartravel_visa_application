@@ -63,7 +63,11 @@ Trang thông tin sẽ bao gồm:
   * Stripe Credit card processor \(VISA, Mastercard, JCB\)
 
 
-_Lưu ý: Stripe lấy phí dịch vụ trên mỗi giao dịch là _****_2,9% + 30cents_****_. Ví dụ: với 1 giao dịch trị giá 15 US$ thì phí dịch vụ của Stripe là 30,435. Giá trị nhận được của giao dịc h đó là khoảng 14.69 US$._
+_Lưu ý: **Stripe** lấy phí dịch vụ trên mỗi giao dịch là _****_2,9% + 30cents_****_. Ví dụ: với 1 giao dịch trị giá 15 US$ thì phí dịch vụ của Stripe là 30,435. Giá trị nhận được của giao dịch đó là khoảng 14.69 US$._
+
+_Phí dịch vụ của **PayPal** là **4.4% + 30cents.**_
+
+
 
 ### II.2.4. Trang gởi đơn \(Apply for Visa\)
 
@@ -95,7 +99,9 @@ Khách sẽ lựa chọn các tuỳ chọn bao gồm:
       * Đà Nẵng
       * Cam Ranh
 
-
+  * Dịch vụ cộng thêm
+      * Dịch vụ 
+      * Dịch vụ gọi xe
 
 * **Bước 2: Khai báo thông tin chi tiết**
 
