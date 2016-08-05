@@ -116,6 +116,7 @@ Khách hàng sẽ điền vào Form thông tin chi tiết cho từng ứng xin c
   * Ngày nhập cảnh dự kiến
   * Ngày xuất cảnh
   * Đã từng đến Việt Nam hay chưa?
+  * Upload hình chụp hoặc scan của hộ chiếu (2 mặt)
 
 * **Bước 3: Xác nhận và thanh toán**
 
