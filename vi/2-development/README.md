@@ -68,7 +68,6 @@ _Lưu ý: **Stripe** lấy phí dịch vụ trên mỗi giao dịch là _****_2,
 _Phí dịch vụ của **PayPal** là **4.4% + 30cents.**_
 
 
-
 ### II.2.4. Trang gởi đơn \(Apply for Visa\)
 
 Trang này sẽ tính và hiển thị tức thời số phí dịch vụ mà khách hàng cần phải trả phản ánh lựa chọn của khách hàng.
