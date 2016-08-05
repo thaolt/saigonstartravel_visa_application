@@ -21,9 +21,15 @@ Dựa trên số ngày công
 
 **Chi phí và thời gian ước tính**
 
-Chi phí tối thiểu cho dự án _"Ứng dụng web gởi đơn xin cấp thị thực cho SaigonStar Travel"_ (bao gồm phí lưu trữ + tên miền năm đầu tiên) ước tính là: **80 triệu đồng** ( 12.000.000 + 800.000 + 67.200.000 )
+Chi phí tối thiểu cho dự án _"Ứng dụng web gởi đơn xin cấp thị thực cho SaigonStar Travel"_ (bao gồm phí lưu trữ + tên miền năm đầu tiên) ước tính là **80 triệu đồng**, trong đó: 
 
-Với thời gian tối thiểu là: **35 ngày làm việc (không bao gồm ngày nghỉ và lễ)**
+* Phí thiết kế xây dựng: 67.200.000 
+* Phí phục vụ lưu trữ web: 12.000.000
+* Phí đăng ký tên miền (.vn) 800.000
+
+Với thời gian tối thiểu là: 
+
+**35 ngày làm việc (không bao gồm ngày nghỉ và lễ)**
 
 _**Các chú thích trong bảng giá**_
 
