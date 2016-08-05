@@ -115,8 +115,7 @@ Khách hàng sẽ điền vào Form thông tin chi tiết cho từng ứng xin c
   * Thông tin hộ chiếu ( tên trên hộ chiếu, loại hộ chiếu, cấp bởi, ngày cấp, ngày hết hạn )
   * Ngày nhập cảnh dự kiến
   * Ngày xuất cảnh
-  * Đã từng đến Việt Nam hay chưa
-
+  * Đã từng đến Việt Nam hay chưa?
 
 * **Bước 3: Xác nhận và thanh toán**
 
@@ -131,7 +130,11 @@ Khách hàng sẽ điền vào Form thông tin chi tiết cho từng ứng xin c
 
 ### II.2.6. Trang quản trị
 
-* Tin tức: có khả năng thêm\/xoá\/sửa tin tức và các chuyên mục.
+* Trang chủ: có thể thay đổi cách hiển thị các module và slideshow trên trang chủ
+* Quản lý nội dung
+    * Tin tức: có khả năng thêm\/xoá\/sửa tin tức và các chuyên mục.
+    * Thêm/xoá/sửa nội dung các trang thông tin
+    * 
 * Ngôn ngữ: có chức năng tự động tạo\/xóa\/sửa ngôn ngữ mới cho website.
 
 ### II.2.7. Các chức năng bổ sung đề nghị
