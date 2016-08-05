@@ -10,4 +10,8 @@ Thêm vào đó, với ứng dụng di động SaigonStar Travel thông tin đ�
 
 Chúng tôi cung cấp các dịch vụ kiểm tra bảo mật (penetration testing, cyber security audit) định kỳ cho các công ty có quan tâm và nhu cầu.
 
-## VII.3. Cảm ơn và cam kết từ DFM Engineering {#thanks}
+## VII.3. Cam kết và cảm ơn từ DFM Engineering {#thanks}
+
+DFM cam kết khả năng tích hợp các công nghệ hiện đại đem đến chất lượng sản phẩm đạt tiêu chuẩn quốc tế. Với dịch vụ chăm sóc khách hàng, chúng tôi tin sẽ đem lại giá trị lợi ích và sự hài lòng cho quý khách hàng.
+
+Chúng tôi xin chân thành cảm ơn SaigonStar Travel đã trích thời gian quý báu xem xét hồ sơ giải pháp này và mong muốn có cơ hội hợp tác với quý công ty.
