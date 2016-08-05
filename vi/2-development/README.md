@@ -78,7 +78,7 @@ Khách sẽ lựa chọn các tuỳ chọn bao gồm:
         * 1 người: 1 - 3 tháng
         * Nhiều người: 1 - 6 tháng
 
-    * Mục đích viếng thăm 
+    * Mục đích viếng thăm
         * Du lịch
         * Công tác
         * Thăm thân
