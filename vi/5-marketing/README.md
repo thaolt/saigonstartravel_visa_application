@@ -30,9 +30,9 @@ Quảng bá trên các mạng xã hội là công việc thường xuyên và li
 
 ## V.3. Đẩy nhanh tốc độ quảng bá bằng cách mua quảng cáo Google Adwords {#adwords}
 
-Ngân sách mỗi ngày rất quan trọng đến việc quảng bá bằng Google Adwords vì ảnh hưởng trực tiếp đến vị trí quảng bá trên Google.
+Việc quảng bá bằng Google Adwords là rất quan trọng trong những tháng đầu tiên sau khi triển khai website, vì khi đó website vẫn chưa có mặt trên bảng xếp hạng Alexa. Số khách hàng đến từ các bộ máy tìm kiếm thời gian từ 3-4 tháng đầu sẽ phụ thuộc vào ngân sách cho Google Adwords. 
 
 Tuỳ vào mức độ khó của từ khoá mà điều chỉnh ngân sách mỗi ngày cho hợp lý.
 
-
+Sau 3-4 tháng, khi website đã có mặt trên bảng xếp hạng Alexa, và có số lượng truy cập thường xuyên ổn định, quý khách hàng xem xét cắt hoặc giảm ngân sách dịch vụ này.
 
