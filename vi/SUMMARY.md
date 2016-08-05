@@ -21,3 +21,4 @@
     * [VII.1. Ứng dụng di động](7-conclusion/README.md#mobileapp)
     * [VII.2. Tăng cường bảo mật](7-conclusion/README.md#security)
     * [VII.3. Cảm ơn và cam kết từ DFM Engineering](7-conclusion/README.md#thanks)
+* [Chú giải](GLOSSARY.md)
