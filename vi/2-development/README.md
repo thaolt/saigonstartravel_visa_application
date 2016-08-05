@@ -98,8 +98,9 @@ Khách sẽ lựa chọn các tuỳ chọn bao gồm:
       * Đà Nẵng
       * Cam Ranh
 
-  * Dịch vụ cộng thêm
-      * Dịch vụ 
+  * Dịch vụ cộng thêm ( có tính thêm phí cho khách hàng )
+
+      * Dịch vụ làm thủ tục nhập cảnh tại sân bây
       * Dịch vụ gọi xe
 
 * **Bước 2: Khai báo thông tin chi tiết**
