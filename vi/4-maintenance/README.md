@@ -19,7 +19,7 @@ Quý khách có thể lựa chọn các vị trí đặt máy chủ như sau:
 * Canada: Toronto
 * India: Bangalore
 
-Theo yêu cầu về khách hàng tiềm năng của website, chúng tôi khuyến nghị nên sử dụng 
+Theo yêu cầu về khách hàng tiềm năng của website, chúng tôi khuyến nghị nên sử dụng các vị trị đặt máy chủ ở Châu Âu (Pháp, UK, Germany)
 
 ## IV.2. Sao lưu dự phòng và phục hồi
 
