@@ -27,7 +27,7 @@ Công ty SaigonStar Travel muốn có một giải pháp cho phép người sử
 
 ### II.2.1. Trang chủ \(giới thiệu\)
 
-* Có chứa một số hình ảnh bắt mắt về Việt Nam và SaigonStar Travel \(images slideshow\).
+* Có chứa một số hình ảnh bắt mắt về Việt Nam và SaigonStarTravel \(images slideshow\).
 * Hiển thị một số tin tức mới nhất\/nổi bật liên quan đến Việt Nam và thị thực.
 * Hiển thị các banner của các dịch vụ và trang thông tin liên quan. Các banner này có thể thay đổi được bởi quan trị viên.
 * Chú trọng hiển thị liên kết đến trang "gởi đơn xin Visa".
