@@ -26,7 +26,7 @@ Chú trọng các bộ máy tìm kiếm địa phương hoá của Google đư�
 * Google plus
 * Twitter
 
-Quảng bá trên các mạng xã hội là công việc thường xuyên và liên tục.
+Quảng bá trên các mạng xã hội là công việc thường xuyên và liên tục. Việc viết các bài liên quan đến dịch vụ xin Visa đến Việt Nam và dịch vụ du lịch là cần thiết.
 
 ## V.3. Đẩy nhanh tốc độ quảng bá bằng cách mua quảng cáo Google Adwords {#adwords}
 
