@@ -75,22 +75,25 @@ Bao gồm 3 bước
 
 Khách sẽ lựa chọn các tuỳ chọn bao gồm:
 
-  * Số lượng Visa muốn xin
+  * Số lượng Visa muốn xin ( 1-10
   * Thời gian xin phép
       * 1 người: 1 - 3 tháng
       * Nhiều người: 1 - 6 tháng
 
   * Mục đích viếng thăm
+
       * Du lịch
       * Công tác
       * Thăm thân
 
   * Sân bay đến, bao gồm 
+
       * Nội Bài
       * Tân Sơn Nhất
       * Đà Nẵng
       * Cam Ranh
 
+Trang này sẽ tính và hiển thị số phí dịch vụ mà khách hàng cần phải trả.
 
 * **Bước 2: Khai báo thông tin chi tiết**
 
