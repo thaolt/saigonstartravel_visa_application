@@ -136,7 +136,8 @@ Khách hàng sẽ điền vào Form thông tin chi tiết cho từng ứng xin c
     * Tin tức: có khả năng thêm\/xoá\/sửa tin tức và các chuyên mục.
     * Thêm/xoá/sửa nội dung các trang thông tin
 
-* Quản lý đơn xin cấp phép ( xem, tải các thông tin chi tiết của đơn xin thị thực, cập nhật tình trạng )
+* Quản lý đơn xin cấp phép ( xem, tải các thông tin chi tiết của đơn xin thị thực, cập nhật tình trạng ). Tự động gởi mail cho khách hàng khi tình trạng đơn được thay đổi.
+* Quản lý khách hàng: Liệt kê khách hàng và đơn xin cấp phép của họ. Gởi email trực tiếp
 * Ngôn ngữ: có chức năng tự động tạo\/xóa\/sửa ngôn ngữ mới cho website.
 
 
