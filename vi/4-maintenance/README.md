@@ -4,7 +4,7 @@
 
 Sau khi đăng ký một tên miền, quý khách có thể xem như đã có một địa chỉ trên Internet.
 
-Web hosting là dịch vụ cho thuê chỗ máy chủ Internet để đặt website lên mạng. Nếu tên miền là địa chỉ, website là ngôi nhà thì sử dụng web hosting là "thuê đất" vậy. Khi sử dụng dịch vụ web hosting cho website.
+Web hosting là dịch vụ cho thuê chỗ máy chủ Internet để đặt website lên mạng. Nếu tên miền là địa chỉ, website là ngôi nhà thì sử dụng web hosting là "thuê đất" vậy.
 
 ## IV.2. Sao lưu dự phòng và phục hồi
 
