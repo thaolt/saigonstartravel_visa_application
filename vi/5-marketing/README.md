@@ -20,7 +20,7 @@ Chú trọng các bộ máy tìm kiếm địa phương hoá của Google đư�
 
 Để đạt được điều này, phải có các bài viết (thông tin và tin tức) chất lượng cho từng từ khóa.
 
-## V.2. Tạo và quảng báo các trang mạng xã hội {#social}
+## V.2. Tạo và quảng bá các trang mạng xã hội {#social}
 
 * Facebook
 * Google plus
@@ -30,4 +30,9 @@ Quảng bá trên các mạng xã hội là công việc thường xuyên và li
 
 ## V.3. Đẩy nhanh tốc độ quảng bá bằng cách mua quảng cáo Google Adwords {#adwords}
 
-Ngân sách 
+Ngân sách mỗi ngày rất quan trọng đến việc quảng bá bằng Google Adwords vì ảnh hưởng trực tiếp đến vị trí quảng bá trên Google.
+
+Tuỳ vào mức độ khó của từ khoá mà điều chỉnh ngân sách mỗi ngày cho hợp lý.
+
+
+
