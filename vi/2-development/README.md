@@ -99,7 +99,6 @@ Khách sẽ lựa chọn các tuỳ chọn bao gồm:
       * Cam Ranh
 
   * Dịch vụ cộng thêm ( có tính thêm phí cho khách hàng )
-
       * Dịch vụ làm thủ tục nhập cảnh tại sân bây
       * Dịch vụ gọi xe
 
