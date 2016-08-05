@@ -63,7 +63,7 @@ Trang thông tin sẽ bao gồm:
   * Stripe Credit card processor \(VISA, Mastercard, JCB\)
 
 
-_Lưu ý: Stripe lấy phí dịch vụ trên mỗi giao dịch là __**2,9% + 30cents**__. Ví dụ: với 1 giao dịch trị giá 15 US$ thì phí dịch vụ của Stripe là 30,435. Giá trị nhận được của giao dịc h đó là khoảng 14.69 US$._
+_Lưu ý: Stripe lấy phí dịch vụ trên mỗi giao dịch là _****_2,9% + 30cents_****_. Ví dụ: với 1 giao dịch trị giá 15 US$ thì phí dịch vụ của Stripe là 30,435. Giá trị nhận được của giao dịc h đó là khoảng 14.69 US$._
 
 ### II.2.4. Trang gởi đơn \(Apply for Visa\)
 
@@ -71,7 +71,20 @@ Bao gồm 3 bước
 
 * **Bước 1: Các lựa chọn cơ bản**
 
-  * asds
+Khách sẽ lựa chọn các tuỳ chọn bao gồm:
+
+    * Số lượng Visa muốn xin
+    * Thời gian xin phép
+        *
+    * Mục đích viếng thăm 
+        * Du lịch
+        * Công tác
+        * Thăm thân
+    * Sân bay đến, bao gồm _(có thể sửa đổi tuỳ theo yêu cầu)_
+        * Nội Bài
+        * Tân Sơn Nhất
+        * Đà Nẵng
+        * Cam Ranh
 
 
 * **Bước 2: Khai báo thông tin chi tiết**
