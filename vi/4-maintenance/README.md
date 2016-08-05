@@ -9,4 +9,4 @@ Web hosting là dịch vụ cho thuê chỗ máy chủ Internet để đặt web
 ## IV.2. Sao lưu dự phòng và phục hồi
 
 * Tất cả CSDL website và thông tin khách hàng đăng ký luôn luôn được lưu trữ và đồng bộ với dịch vụ lưu trữ điện toán đám mây (cloud hosting).
-* Nếu có
+* Nếu có 
