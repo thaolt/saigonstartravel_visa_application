@@ -1,1 +1,6 @@
 /* stylesheet for PDF */
+
+.section.toc .page {
+    display: none;
+}
+
