@@ -71,23 +71,25 @@ Bao gồm 3 bước
 
 * **Bước 1: Các lựa chọn cơ bản**
 
+Đây là nội dung đề nghị, có thể sửa đổi tuỳ theo yêu cầu của quý khách hàng.
+
 Khách sẽ lựa chọn các tuỳ chọn bao gồm:
 
-    * Số lượng Visa muốn xin
-    * Thời gian xin phép
-        * 1 người: 1 - 3 tháng
-        * Nhiều người: 1 - 6 tháng
+  * Số lượng Visa muốn xin
+  * Thời gian xin phép
+      * 1 người: 1 - 3 tháng
+      * Nhiều người: 1 - 6 tháng
 
-    * Mục đích viếng thăm
-        * Du lịch
-        * Công tác
-        * Thăm thân
+  * Mục đích viếng thăm
+      * Du lịch
+      * Công tác
+      * Thăm thân
 
-    * Sân bay đến, bao gồm _(có thể sửa đổi tuỳ theo yêu cầu)_
-        * Nội Bài
-        * Tân Sơn Nhất
-        * Đà Nẵng
-        * Cam Ranh
+  * Sân bay đến, bao gồm 
+      * Nội Bài
+      * Tân Sơn Nhất
+      * Đà Nẵng
+      * Cam Ranh
 
 
 * **Bước 2: Khai báo thông tin chi tiết**
