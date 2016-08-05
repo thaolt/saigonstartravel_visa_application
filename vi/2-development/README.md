@@ -144,7 +144,8 @@ Khách hàng sẽ điền vào Form thông tin chi tiết cho từng ứng xin c
 
 * **Trang hỏi đáp \(Q & A\)**
 
-  * hỏi đáp
+  * Hiển thị những câu hỏi thường gặp và trả lời từ SaigonStar Travel
+  * Cho phép khách hàng gởi câu hỏi đến SaigonStar Travel thông qua biểu mẫu trên trang.
 
 
 * **Chức năng hỗ trợ trực tuyến \(live chat\)**
