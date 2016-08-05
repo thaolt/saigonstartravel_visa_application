@@ -56,13 +56,14 @@ Trang thông tin sẽ bao gồm:
     _Có thể bổ sung thêm_
 
 
+
 * **Danh sách các phương thức thanh toán \(payment methods\)**
 
   * Paypal \(cho khách hàng có tài khoản Paypal\)
   * Stripe Credit card processor \(VISA, Mastercard, JCB\)
 
 
-_Lưu ý: Stripe lấy phí dịch vụ trên mỗi giao dịch là _**_2,9% + 30cents_**_. Ví dụ: với 1 giao dịch trị giá 15 US$ thì phí dịch vụ của Stripe là 30,435. Giá trị nhận được của giao dịc h đó là khoảng 14.69 US$._
+_Lưu ý: Stripe lấy phí dịch vụ trên mỗi giao dịch là __**2,9% + 30cents**__. Ví dụ: với 1 giao dịch trị giá 15 US$ thì phí dịch vụ của Stripe là 30,435. Giá trị nhận được của giao dịc h đó là khoảng 14.69 US$._
 
 ### II.2.4. Trang gởi đơn \(Apply for Visa\)
 
