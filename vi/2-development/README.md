@@ -81,8 +81,8 @@ Bao gồm 3 bước
 
 Khách sẽ lựa chọn các tuỳ chọn bao gồm:
 
-  * Số lượng Visa muốn xin ( 1-10
-  * Thời gian xin phép
+    * Số lượng Visa muốn xin ( 1-10
+    * Thời gian xin phép
       * 1 người: 1 - 3 tháng
       * Nhiều người: 1 - 6 tháng
 
