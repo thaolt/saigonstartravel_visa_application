@@ -67,7 +67,7 @@ _Lưu ý: Stripe lấy phí dịch vụ trên mỗi giao dịch là _****_2,9% +
 
 ### II.2.4. Trang gởi đơn \(Apply for Visa\)
 
-Trang này sẽ tính và hiển thị tức thời số phí dịch vụ mà khách hàng cần phải trả.
+Trang này sẽ tính và hiển thị tức thời số phí dịch vụ mà khách hàng cần phải trả phản ánh lựa chọn của khách hàng.
 
 Bao gồm 3 bước
 
