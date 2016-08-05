@@ -4,6 +4,4 @@
 
 ## VII.2. Tăng cường bảo mật {#security}
 
-## VII.3. Tích hợp công nghệ thực tế ảo {#security}
-
 ## VII.3. Cảm ơn và cam kết từ DFM Engineering {#thanks}
