@@ -8,6 +8,6 @@ Thêm vào đó, với ứng dụng di động SaigonStar Travel thông tin đ�
 
 ## VII.2. Tăng cường bảo mật {#security}
 
-Chúng tôi cung cấp các dịch vụ kiểm tra bảo mật ( penetration testing, cyber security audit ) định kỳ cho các công ty có quan tâm và nhu cầu
+Chúng tôi cung cấp các dịch vụ kiểm tra bảo mật (penetration testing, cyber security audit) định kỳ cho các công ty có quan tâm và nhu cầu.
 
 ## VII.3. Cảm ơn và cam kết từ DFM Engineering {#thanks}
