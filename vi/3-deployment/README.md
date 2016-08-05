@@ -24,6 +24,7 @@
 * Băng thông mạng: 3000 GB /tháng
 * Tốc độ mạng: 1 Gbps
 * Hệ điều hành: Debian Linux 8
+* Kiến trúc CPU: 64bit
 
 ## III.2. Chuyển giao công nghệ và đào tạo {#tranfer}
 

@@ -72,7 +72,7 @@ _Phí dịch vụ của **PayPal** là **4.4% + 30cents.**_
 
 Trang này sẽ tính và hiển thị tức thời số phí dịch vụ mà khách hàng cần phải trả phản ánh lựa chọn của khách hàng.
 
-Bao gồm 3 bước
+Bao gồm 3 bước như sau:
 
 * **Bước 1: Các lựa chọn cơ bản**
 
@@ -106,7 +106,7 @@ Khách sẽ lựa chọn các tuỳ chọn bao gồm:
 
 Khách hàng sẽ điền vào Form thông tin chi tiết cho từng ứng xin cấp thị thực, bao gồm các thông tin:
 
-  - Tên, giới tính
+  - Tên đầy đủ, giới tính
 
 
 * **Bước 3: Xác nhận và thanh toán**
