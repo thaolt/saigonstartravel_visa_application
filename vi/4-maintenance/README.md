@@ -25,3 +25,4 @@ Theo yêu cầu về khách hàng tiềm năng của website, chúng tôi khuy�
 
 * Tất cả CSDL website (database), hình ảnh và trang trí (assets),  và mã nguồn website (source code) luôn luôn được lưu trữ và đồng bộ với dịch vụ lưu trữ điện toán đám mây (cloud hosting).
 * Nếu quý khách có nhu cầu thêm một bản sao lưu tại văn phòng của quý công ty. Chúng tôi sẽ thiết lập và cài đặt một máy tính luôn được đồng bộ hoá (synchronizing) với đám mây lưu trữ.
+* Chúng tôi sẽ xây dựng phầm mềm tự động phục hồi dữ liệu và website. Khi có tình huống sự cố chỉ với vài cái click chuột là quý khách có thể phục hồi toàn bộ hệ thống về trạng thái vận hành như bình thường.
